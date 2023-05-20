@@ -108,6 +108,6 @@ footer {
 /* Ajoutez cette règle CSS pour encadrer les éléments du calendrier */
 .carousel-container {
   max-width: 60%; /* Ajustez cette valeur pour réduire la largeur du carousel */
-  margin-left: 30px;
+  margin-left: 50px;
   margin: 0 left; /* Centre le carousel horizontalement */
 }
