@@ -93,6 +93,12 @@ h2 {
   margin-bottom: 10px;
 }
 
+p2 {
+  font-family: 'Dancing Script', cursive;
+  margin-bottom: 10px;
+  color: #333; /* Couleur du texte dans les sections */
+}
+
 p {
   margin-bottom: 10px;
   color: #333; /* Couleur du texte dans les sections */
